@@ -56,7 +56,7 @@ endif
 " 键盘映射
 nmap <space> :
 vnoremap <C-y> "+y "Visual模式下，通过ctrl-y复制
-nnoremap <C-p> "*p "normal模式下，通过ctrl-v复制
+nnoremap <C-p> "*p "normal模式下，通过ctrl-p粘贴
 
 set number
 set mouse=a
